@@ -5,9 +5,7 @@ ETIC Focus is a responsive Pomodoro timer for focus sessions, breaks, and rest p
 ## Features
 
 - Pomodoro timer with focus, break, and rest modes
-- Responsive timer card and controls
 - ETIC branding, logo, and favicon
-- Doodle-style side artwork
 
 ## Tech Stack
 
