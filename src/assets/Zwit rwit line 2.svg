@@ -1,0 +1,5 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Doodle line 2 placeholder -->
+  <path d="M490 100 Q 375 200, 250 150 T 10 300" stroke="#20B3AD" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M450 80 Q 350 150, 250 120 T 30 280" stroke="#EB9223" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.6"/>
+</svg>
