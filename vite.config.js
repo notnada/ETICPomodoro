@@ -3,9 +3,10 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/ETICPOMODORO/',
+  
   plugins: [
     react(),
     tailwindcss(),
   ],
+  base: '/ETICPOMODORO/',
 })
